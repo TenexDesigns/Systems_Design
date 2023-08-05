@@ -53,3 +53,47 @@ Remember that system design is a continuous learning process, and practical expe
 
 
   
+
+
+
+
+
+
+
+
+
+
+1. Load balalncing and tchiniques for load balanicng
+2. Caching , ways of cacheing , what to use
+3. Database indexis
+4. Scaling , web server,image server, databse server,databas writes, daba base sharding
+5. API design, securty, communication and scaling  
+
+
+
+
+1. Scaling
+2. Load balancer  , load balncer algorthm e.g round robin or hashing
+  3. CDN
+  4. Caching
+  5.IP adreees
+  6.TCP/IP
+  7.Domain Name Syste
+  8.Http
+  9.Sql
+  10.Sharding
+  11.Replication
+  12.CAP theorem
+
+
+
+
+
+
+
+
+
+
+
+
+  
